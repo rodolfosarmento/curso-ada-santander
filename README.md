@@ -8,3 +8,4 @@
 * Comando push teste
 * Comando pull teste
 * Comando git fetch teste
+* Comando novo na branch
