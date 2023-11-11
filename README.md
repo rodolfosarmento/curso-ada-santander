@@ -6,3 +6,4 @@
 * Comando git pull
 * Comando git fetch
 * Comando push teste
+* Comando pull teste
